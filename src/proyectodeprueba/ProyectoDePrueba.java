@@ -15,7 +15,7 @@ public class ProyectoDePrueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Esta es una modificación...para que se vea en SmartGit");
     }
     
 }
